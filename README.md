@@ -2,7 +2,7 @@
 
 Este repositório foi criado com o objetivo de armazenar os projetos finais dos cursos da formação de Cientista de Dados fornecida pela [Data Science Academy](www.datascienceacademy.com.br).
 
-Nos outros repositório à qual possuo em meu perfil contém alguns estudos e projetos aleatórios, neste aqui, há de se encontrar algo mais direcionado a construção e evolução do aprendizado de um cientista de dados. Muito do que é possível encontrar em problemas reias de mercado será desenvolvido aqui, espero que possa aproveitar a evolução do meu aprendizado e contribua se assim desejar.
+Nos outros repositório à qual possuo em meu perfil contém alguns estudos e projetos aleatórios, neste aqui, há de se encontrar algo mais direcionado a construção e evolução do aprendizado de um cientista de dados. Muito do que é possível encontrar em problemas reais de mercado será desenvolvido aqui, espero que possa aproveitar a evolução do meu aprendizado e contribua se assim desejar.
 
 ## Lista de Cursos
 
